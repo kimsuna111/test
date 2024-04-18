@@ -1,0 +1,6 @@
+@charset "utf-8";
+*{margin:0; padding:0;}
+ul,ol,li{list-style:none;}
+html,body{width: 100%; height: 100%; background: #e3ffe0; color:#333; font-family:"NanumSquare";}
+a{color:inherit; text-decoration:none; display:block;}
+input:focus{outline:none;}
